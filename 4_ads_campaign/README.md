@@ -1,4 +1,4 @@
-This is the nineth dataset analysed by me After passing Google Data Analytics Certificate in May 2022.   
+This is the fourth dataset analysed by me After passing Google Data Analytics Certificate in April 2022.   
 
 
 Ads Campaign -- Plotting data in logarithmic scale to find the type of data distribution, finding ad_id with an anomalistict number of views. Comparing average and simple moving average views data. Categorizing clients' registration data and labelling it. Plotting results with help of interactive Plotly plot.    
