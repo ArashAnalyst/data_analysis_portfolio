@@ -1,4 +1,4 @@
-This is the fifth dataset analysed by me After passing Google Data Analytics Certificate in May 2022. 
+This is the fifth dataset analysed by me After passing Google Data Analytics Certificate in April 2022. 
 
 
 Avocado Price -- Comparing avocado average, simple moving average and exponential weighted average price values. Categorizing delay data and labelling it. Plotting results with help of subplots and interactive Plotly plots.  
