@@ -1,13 +1,15 @@
-# data_analysis_portfolio
-
-## About
-
-Hi, I'm Arash! I don't have a technical background and hold a Google Data Analytics Certificate from Coursera. I have worked on various SQL, python and Tableau project on my own for last 1 years to learn these skills and improve my knowledge as a Data Analyst.
-<br>
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.  
-<br>
+This is the tenth dataset analysed by me while passing [data analysis course](https://karpov.courses/) I've enrolled in January 2021.   
 
 
-## Table of contents
-- [About](#about)
-- [Portfolio Projects](#portfolio-projects)
+Visits by Browser -- analising web-site visits. Defining proportion of real users and visits by bots. Findig the most popular browser for users and for bots. Barplotting results, downloading data using **Google Docs API** and merging it to our dataframe. Read_csv, groupby, agg, query, sort_values, pivot, fillna, assign and merge methods were used for Exploratory Data Analysis. 
+
+
+
+Hope this repo will help you to assess my coding, data analytics and SQL skills or will be just fun for you to look through.    
+
+
+
+--------------------------------------------
+Fill free to contact me via nktn.lx@gmal.com  
+Follow me on twitter: @nktn_lx  
+And here on github: github.com/nktnlx  
