@@ -1,4 +1,4 @@
-This is the fourteenth dataset analyzed by me After passing Google Data Analytics Certificate in April 2022.   
+This is the seventh dataset analyzed by me After passing Google Data Analytics Certificate in April 2022.   
 
 
 Bikes rent in Chicago -- dates to dateformat conversion, resampling data to aggregate by days, automatically merging data from distinct files into one dataframe using os.walk(), differentiating bikes rents by user type, finding the most popular destination points overall and based on the week of the day.  
