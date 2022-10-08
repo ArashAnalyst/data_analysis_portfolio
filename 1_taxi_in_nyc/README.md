@@ -1,4 +1,4 @@
-This is the dataset analysed by me After passing Google Data Analytics Certificate in May 2022.   
+This is the first dataset analysed by me After passing Google Data Analytics Certificate in May 2022.   
 
 Analising NYC taxi orders with Pandas. Read_csv, rename, groupby, agg, query, sort_values, idxmax, idxmin, value_counts, pivot methods were used for Exploratory Data Analysis.  
  
