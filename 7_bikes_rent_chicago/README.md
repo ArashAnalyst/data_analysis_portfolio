@@ -12,6 +12,5 @@ Hope this repo will help you to assess my coding, data analytics and SQL skills 
 
 
 --------------------------------------------
-Fill free to contact me via Arashdeepsingh122@gmal.com
-
-And here on github: github.com/ArashAnalyst
+Fill free to contact me via Arashdeepsingh122@gmal.com   
+And here on github: github.com/ArashAnalyst 
